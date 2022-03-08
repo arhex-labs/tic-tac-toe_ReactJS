@@ -1,0 +1,19 @@
+.Again {
+  background-color: transparent;
+}
+
+.Again button {
+  padding: 30px;
+  border-radius: 50px;
+  font-size: 1.5rem;
+  border: 1px solid #f1f1f1;
+  background-color: #f1f1f1;
+}
+
+.Again h2 {
+  font-size: 2rem;
+}
+
+.Again button:hover {
+  background: #ddd;
+}
